@@ -1,0 +1,10 @@
+com\globits\mtyt\config\MethodSecurityConfig.class
+com\globits\mtyt\config\OAuth2AuthorizationServerConfig.class
+com\globits\mtyt\config\WebConfig.class
+com\globits\mtyt\config\ApplicationConfig.class
+com\globits\mtyt\config\OAuth2ResourceServerConfig.class
+com\globits\mtyt\config\WebSecurityConfig.class
+com\globits\mtyt\config\DatabaseConfig.class
+com\globits\mtyt\config\WebInit.class
+com\globits\mtyt\listeners\ApplicationStartupListener.class
+com\globits\mtyt\MTYTApplication.class
